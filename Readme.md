@@ -1,28 +1,16 @@
-# Hola, Soy Mauricio
+![alt text](head.png)
 
-Analista de sistemas y desarrollador freelance.
+# Algo sobre mi
 
-Mi carrera profesional está vinculada al sector analítico de aplicaciones de negocios, procedimientos y experiencia del usuario, cuento con 10 años de experiencia liderando y gestionando proyectos de implementación de sistemas y experiencias de usuario con metodologías basadas en PMP, SCRUM y Kanban en 5 países diferentes, desarrollo de sistemas, mantenimiento de sistemas como principal responsable del proyecto, capacitaciones a usuario finales, implementación y seguimiento de lineamientos ITIL.
+Ayudo a las empresas a alcanzar su máximo nivel en sus departamentos de tecnología y a optimizar sus costos a través de análisis de aplicaciones de negocio, procedimientos y experiencias del usuario, además de la optimización de las arquitecturas tecnológicas e infraestructuras del negocio.
 
-## Con que trabajo:
-Una lista de las tecnologías del dia a dia
-* PHP.
-* TypeScrypt.
-* Java (Spring Boot).
-* SQL (MySQL, PGSql, TSQL).
-* Flutter.
+Cuento con +10 años de experiencia optimizando departamentos de tecnologías y gestionando proyectos con metodologías tradicionales y ágiles en equipos de hasta 15 personas a mi cargo.
 
-Y un par mas...
 
-## Otros Conocimientos de interés:
+# Otros Conocimientos de interés:
 Ademas me he capacitado pudiendo ayudar en las distintas areas de negocio como:
 * Marketing Digital.
-* BI con procesos ETL.
-* Tribulación fiscal.
+* Inteligencia del negocio.
 * Normativas ISO 9001 y 27001.
 * Estándares de servicios según ITIL.
-* Arquitecturas de micro servicios escalares.
-
-## Contactos:
-* contactos@agilit.com.py
-* mauriciostei@hotmail.com
+* Arquitecturas de aplicaciones.
